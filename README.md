@@ -1,4 +1,4 @@
-# The-word-of-Ben-Felix
+# The word of Ben Felix
 This repository would be a reference for all the Ben Felix videos. I keep here all the links to every paper cited by Ben in his videos with a summary of the video itself.
 
 ## 2018
