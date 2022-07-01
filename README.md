@@ -1,6 +1,8 @@
 # The word of Ben Felix
 This repository would be a reference for all the Ben Felix videos. I keep here all the links to every paper cited by Ben in his videos with a summary of the video itself.
 
+I'm binge-watching the videos at the time, so new entries are added in no particular order as soon as I watch a video. 
+
 ## 2018
 ### [Why Not All Index Funds Are Created Equal | Common Sense Investing](https://www.youtube.com/watch?v=8dkq4EwIawg&list=PLhXPtQVp7QBMjqYkaY9b9IlGzM-yivMQQ&index=76)
 ETFs have become a business, so sector ETFs, smart beta ETFs and equally weighted ETFs are born. In reality, these products don't deliver their promises but have higher fees. Even smart beta ETFs that track those stocks that can lead to better returns based on well-researched factors don't reach their objective. In conclusion, for the vast majority of people, market capitalization-weighted, total market ETFs are the best choice.
